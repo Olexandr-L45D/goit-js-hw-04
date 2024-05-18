@@ -1,7 +1,6 @@
 const profile = {
     username: "Jacob",
     playTime: 300,
-    
     getInfo() {
        let Username = this.username;
       let amount = this.playTime;
